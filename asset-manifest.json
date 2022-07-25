@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0a7711cd.css",
-    "main.js": "/portfolio/static/js/main.19147dd5.js",
+    "main.css": "/portfolio/static/css/main.1dbb0ea4.css",
+    "main.js": "/portfolio/static/js/main.ccea0c6b.js",
     "static/js/787.071eb048.chunk.js": "/portfolio/static/js/787.071eb048.chunk.js",
-    "static/media/1.png": "/portfolio/static/media/1.2632c734d06a17e713b1.png",
+    "static/media/menitcom.png": "/portfolio/static/media/menitcom.db338630b29cf5814d48.png",
     "static/media/profile.png": "/portfolio/static/media/profile.6468dfc0962a262faee7.png",
+    "static/media/keta-travel.png": "/portfolio/static/media/keta-travel.b4b6454291bf258db1d2.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.131cfc6f1251d38ec130.png",
+    "static/media/keta-travel-ci4.png": "/portfolio/static/media/keta-travel-ci4.f2b3d463063ce08796d2.png",
     "index.html": "/portfolio/index.html",
-    "main.0a7711cd.css.map": "/portfolio/static/css/main.0a7711cd.css.map",
-    "main.19147dd5.js.map": "/portfolio/static/js/main.19147dd5.js.map",
+    "main.1dbb0ea4.css.map": "/portfolio/static/css/main.1dbb0ea4.css.map",
+    "main.ccea0c6b.js.map": "/portfolio/static/js/main.ccea0c6b.js.map",
     "787.071eb048.chunk.js.map": "/portfolio/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a7711cd.css",
-    "static/js/main.19147dd5.js"
+    "static/css/main.1dbb0ea4.css",
+    "static/js/main.ccea0c6b.js"
   ]
 }
