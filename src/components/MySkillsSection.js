@@ -7,8 +7,8 @@ const MySkillsSection = () => {
             <h4 className="font-bold uppercase text-white text-lg mb-3">
               Skills
             </h4>
-            <h2 className="font-bold text-3xl text-dark mb-4 lg:text-4xl">
-              Skills that I already have
+            <h2 className="font-bold text-3xl text-dark mb-4 lg:text-4xl underline">
+              Skills I already have
             </h2>
           </div>
         </div>

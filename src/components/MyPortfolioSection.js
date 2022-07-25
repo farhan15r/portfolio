@@ -12,7 +12,7 @@ const MyPortfolioSection = () => {
             <h4 className="font-bold uppercase text-primary text-lg mb-3">
               Portfolio
             </h4>
-            <h2 className="font-bold text-3xl text-dark mb-4 lg:text-4xl">
+            <h2 className="font-bold text-3xl text-dark mb-4 lg:text-4xl underline">
               My Projects
             </h2>
           </div>

@@ -9,22 +9,25 @@ const AboutMeSection = () => {
             </h4>
 
             <h2 className="font-bold text-dark text-3xl mb-5 max-w-m lg:text-4xl">
-              Hello every body
+              Hello every body...
             </h2>
-            <p className="font-medium text-dark60 text-base max-w-xl lg:text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-              consequuntur omnis saepe numquam qui eum autem perspiciatis!
-              Vitae.
+            <p className="font-medium text-dark60 text-base text-justify max-w-xl lg:text-lg">
+              I am Farhan Ramadhan and now I am studying at Mercu Buana
+              University, and before going to college I studied at the Daarul
+              Muttaqien Modern Islamic Boarding School for 6 years. I've been
+              interested in computer technology since elementary school, and I
+              stopped when I was at the Islamic boarding school, and I just
+              started again when I entered college. But I learned about
+              programming not only from campus but also learned it through
+              online courses and tutorials on youtube.
             </p>
           </div>
           <div className="w-full px-4 mb-10 lg:w-1/2">
             <h3 className="font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">
-              Mari berteman!
+              My Social Media
             </h3>
             <p className="font-medium text-dark60 text-base mb-6 lg:text-xl">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-              consequuntur omnis saepe numquam qui eum autem perspiciatis!
-              Vitae.
+              let's make friends with me on social media.
             </p>
             <div className="flex items-center">
               <a
