@@ -1,4 +1,5 @@
 import AboutMeSection from "./components/AboutMeSection";
+import FooterSection from "./components/FooterSection";
 import HeroSection from "./components/HeroSection";
 import MyPortfolioSection from "./components/MyPortfolioSection";
 import MySkillsSection from "./components/MySkillsSection";
@@ -12,6 +13,7 @@ function App() {
       <AboutMeSection />
       <MySkillsSection />
       <MyPortfolioSection />
+      <FooterSection />
     </div>
   );
 }

@@ -1,27 +1,29 @@
 const MySkillsSection = () => {
   return (
-    <section id="skills" class="pt-36 pb-32 bg-primary">
-      <div class="container">
-        <div class="w-full px-4">
-          <div class="max-width-xl mx-auto text-center mb-16">
-            <h4 class="font-bold uppercase text-white text-lg mb-3">Skills</h4>
-            <h2 class="font-bold text-3xl text-dark mb-4 lg:text-4xl">
+    <section id="skills" className="pt-36 pb-32 bg-primary">
+      <div className="container">
+        <div className="w-full px-4">
+          <div className="max-width-xl mx-auto text-center mb-16">
+            <h4 className="font-bold uppercase text-white text-lg mb-3">
+              Skills
+            </h4>
+            <h2 className="font-bold text-3xl text-dark mb-4 lg:text-4xl">
               Skills that I already have
             </h2>
           </div>
         </div>
 
-        <div class="w-full px-4">
-          <div class="flex flex-wrap items-center justify-center xl:w-10/12 xl:mx-auto">
+        <div className="w-full px-4">
+          <div className="flex flex-wrap items-center justify-center xl:w-10/12 xl:mx-auto">
             <a
               href="https://www.laravel.com"
               target="_blank"
               rel="noopener noreferrer"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white text-center"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white text-center"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -35,11 +37,11 @@ const MySkillsSection = () => {
               href="https://www.codeigniter.com"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -53,11 +55,11 @@ const MySkillsSection = () => {
               href="https://www.mysql.com/"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -71,11 +73,11 @@ const MySkillsSection = () => {
               href="https://git-scm.com/"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -89,11 +91,11 @@ const MySkillsSection = () => {
               href="https://github.com/"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -107,11 +109,11 @@ const MySkillsSection = () => {
               href="https://nodejs.dev/"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -125,11 +127,11 @@ const MySkillsSection = () => {
               href="https://reactjs.org/"
               rel="noopener noreferrer"
               target="_blank"
-              class="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
+              className="block max-w-[120px] mx-4 md:mx-6 lg:mx-8 py-4 text-dark hover:text-white"
             >
               <svg
                 role="img"
-                class="fill-current hover:scale-125 transition duration-300"
+                className="fill-current hover:scale-125 transition duration-300"
                 width="120"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
