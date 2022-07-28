@@ -7,7 +7,7 @@ import NavbarSection from "./components/NavbarSection";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App box-border overflow-x-clip">
       <NavbarSection />
       <HeroSection />
       <AboutMeSection />
